@@ -1,0 +1,197 @@
+2023-01-30 18:32:32 [INFO]<1> [] ====================================================================
+2023-01-30 18:32:32 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2023-01-30 18:32:32 [INFO]<1> [] Application Directory: D:\Nestle\Nestle_CPMT_Integration\NestlePO10\WindowServiceFinal\bin\Debug\netcoreapp3.1\
+2023-01-30 18:32:34 [INFO]<1> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T18:32:34.3599304+05:30"
+2023-01-30 18:35:27 [INFO]<1> [] ====================================================================
+2023-01-30 18:35:27 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2023-01-30 18:35:27 [INFO]<1> [] Application Directory: D:\Nestle\Nestle_CPMT_Integration\NestlePO10\WindowServiceFinal\bin\Debug\netcoreapp3.1\
+2023-01-30 18:35:28 [INFO]<1> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T18:35:28.1711408+05:30"
+2023-01-30 18:43:47 [INFO]<1> [] ====================================================================
+2023-01-30 18:43:47 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2023-01-30 18:43:47 [INFO]<1> [] Application Directory: D:\Nestle\Nestle_CPMT_Integration\NestlePO10\WindowServiceFinal\bin\Debug\netcoreapp3.1\
+2023-01-30 18:43:48 [INFO]<1> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T18:43:48.4184197+05:30"
+2023-01-30 18:46:53 [INFO]<1> [WorkerServiceApp1.Worker] Error logged  running at: Object reference not set to an instance of an object.
+2023-01-30 18:46:56 [INFO]<11> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T18:46:56.9913125+05:30"
+2023-01-30 18:54:26 [INFO]<11> [WorkerServiceApp1.Worker] Error logged  running at: Object reference not set to an instance of an object.
+2023-01-30 18:54:29 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T18:54:29.0812518+05:30"
+2023-01-30 18:56:50 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Object reference not set to an instance of an object.
+2023-01-30 18:56:53 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T18:56:53.5335416+05:30"
+2023-01-30 18:57:14 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Object reference not set to an instance of an object.
+2023-01-30 18:57:17 [INFO]<13> [WorkerServiceApp1.Worker] This service has been stopped.......
+2023-01-30 19:04:18 [INFO]<1> [] ====================================================================
+2023-01-30 19:04:18 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2023-01-30 19:04:18 [INFO]<1> [] Application Directory: D:\Nestle\Nestle_CPMT_Integration\NestlePO10\WindowServiceFinal\bin\Debug\netcoreapp3.1\
+2023-01-30 19:04:19 [INFO]<1> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:04:19.4508984+05:30"
+2023-01-30 19:05:38 [INFO]<1> [] ====================================================================
+2023-01-30 19:05:38 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2023-01-30 19:05:38 [INFO]<1> [] Application Directory: D:\Nestle\Nestle_CPMT_Integration\NestlePO10\WindowServiceFinal\bin\Debug\netcoreapp3.1\
+2023-01-30 19:05:38 [INFO]<1> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:05:38.7322295+05:30"
+2023-01-30 19:07:44 [INFO]<1> [WorkerServiceApp1.Worker] Error logged  running at: Object reference not set to an instance of an object.
+2023-01-30 19:07:47 [INFO]<5> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:07:47.0826221+05:30"
+2023-01-30 19:07:48 [INFO]<9> [WorkerServiceApp1.Worker] This service has been stopped.......
+2023-01-30 19:07:56 [INFO]<1> [] ====================================================================
+2023-01-30 19:07:56 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2023-01-30 19:07:56 [INFO]<1> [] Application Directory: D:\Nestle\Nestle_CPMT_Integration\NestlePO10\WindowServiceFinal\bin\Debug\netcoreapp3.1\
+2023-01-30 19:07:56 [INFO]<1> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:07:56.9375064+05:30"
+2023-01-30 19:14:56 [INFO]<1> [] ====================================================================
+2023-01-30 19:14:56 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2023-01-30 19:14:56 [INFO]<1> [] Application Directory: D:\Nestle\Nestle_CPMT_Integration\NestlePO10\WindowServiceFinal\bin\Debug\netcoreapp3.1\
+2023-01-30 19:14:57 [INFO]<1> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:14:57.4346438+05:30"
+2023-01-30 19:17:06 [INFO]<1> [] ====================================================================
+2023-01-30 19:17:06 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2023-01-30 19:17:06 [INFO]<1> [] Application Directory: D:\Nestle\Nestle_CPMT_Integration\NestlePO10\WindowServiceFinal\bin\Debug\netcoreapp3.1\
+2023-01-30 19:17:07 [INFO]<1> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:17:07.4510896+05:30"
+2023-01-30 19:22:40 [INFO]<1> [] ====================================================================
+2023-01-30 19:22:40 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2023-01-30 19:22:40 [INFO]<1> [] Application Directory: D:\Nestle\Nestle_CPMT_Integration\NestlePO10\WindowServiceFinal\bin\Debug\netcoreapp3.1\
+2023-01-30 19:22:41 [INFO]<1> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:22:41.0111805+05:30"
+2023-01-30 19:23:28 [INFO]<1> [] ====================================================================
+2023-01-30 19:23:28 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2023-01-30 19:23:28 [INFO]<1> [] Application Directory: D:\Nestle\Nestle_CPMT_Integration\NestlePO10\WindowServiceFinal\bin\Debug\netcoreapp3.1\
+2023-01-30 19:23:29 [INFO]<1> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:23:29.3006833+05:30"
+2023-01-30 19:24:47 [INFO]<1> [] ====================================================================
+2023-01-30 19:24:47 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2023-01-30 19:24:47 [INFO]<1> [] Application Directory: D:\Nestle\Nestle_CPMT_Integration\NestlePO10\WindowServiceFinal\bin\Debug\netcoreapp3.1\
+2023-01-30 19:24:48 [INFO]<1> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:24:48.6244264+05:30"
+2023-01-30 19:27:33 [INFO]<1> [] ====================================================================
+2023-01-30 19:27:33 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2023-01-30 19:27:33 [INFO]<1> [] Application Directory: D:\Nestle\Nestle_CPMT_Integration\NestlePO10\WindowServiceFinal\bin\Debug\netcoreapp3.1\
+2023-01-30 19:27:33 [INFO]<1> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:27:33.4769375+05:30"
+2023-01-30 19:27:44 [INFO]<1> [WorkerServiceApp1.Worker] Error logged  running at: Object reference not set to an instance of an object.
+2023-01-30 19:27:47 [INFO]<8> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:27:47.8560514+05:30"
+2023-01-30 19:27:51 [INFO]<8> [WorkerServiceApp1.Worker] Error logged  running at: Object reference not set to an instance of an object.
+2023-01-30 19:27:54 [INFO]<12> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:27:54.7498676+05:30"
+2023-01-30 19:27:58 [INFO]<12> [WorkerServiceApp1.Worker] Error logged  running at: Object reference not set to an instance of an object.
+2023-01-30 19:28:01 [INFO]<12> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:28:01.5163181+05:30"
+2023-01-30 19:28:05 [INFO]<12> [WorkerServiceApp1.Worker] Error logged  running at: Object reference not set to an instance of an object.
+2023-01-30 19:28:08 [INFO]<12> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:28:08.4023725+05:30"
+2023-01-30 19:29:14 [INFO]<1> [] ====================================================================
+2023-01-30 19:29:14 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2023-01-30 19:29:14 [INFO]<1> [] Application Directory: D:\Nestle\Nestle_CPMT_Integration\NestlePO10\WindowServiceFinal\bin\Debug\netcoreapp3.1\
+2023-01-30 19:29:14 [INFO]<1> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:29:14.8378969+05:30"
+2023-01-30 19:33:48 [INFO]<1> [] ====================================================================
+2023-01-30 19:33:48 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2023-01-30 19:33:48 [INFO]<1> [] Application Directory: D:\Nestle\Nestle_CPMT_Integration\NestlePO10\WindowServiceFinal\bin\Debug\netcoreapp3.1\
+2023-01-30 19:33:49 [INFO]<1> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:33:49.3147135+05:30"
+2023-01-30 19:35:40 [INFO]<1> [] ====================================================================
+2023-01-30 19:35:40 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2023-01-30 19:35:40 [INFO]<1> [] Application Directory: D:\Nestle\Nestle_CPMT_Integration\NestlePO10\WindowServiceFinal\bin\Debug\netcoreapp3.1\
+2023-01-30 19:35:40 [INFO]<1> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:35:40.6809452+05:30"
+2023-01-30 19:35:57 [INFO]<1> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:36:00 [INFO]<8> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:36:00.4447499+05:30"
+2023-01-30 19:36:02 [INFO]<8> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:36:05 [INFO]<11> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:36:05.9650939+05:30"
+2023-01-30 19:36:10 [INFO]<11> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:36:13 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:36:13.9115813+05:30"
+2023-01-30 19:36:14 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:36:17 [INFO]<11> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:36:17.0667312+05:30"
+2023-01-30 19:36:17 [INFO]<11> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:36:20 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:36:20.2252475+05:30"
+2023-01-30 19:36:20 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:36:23 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:36:23.3799605+05:30"
+2023-01-30 19:36:23 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:36:26 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:36:26.5381551+05:30"
+2023-01-30 19:36:26 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:36:29 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:36:29.7723258+05:30"
+2023-01-30 19:36:29 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:36:32 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:36:32.9529330+05:30"
+2023-01-30 19:36:33 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:36:36 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:36:36.1162817+05:30"
+2023-01-30 19:36:36 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:36:39 [INFO]<8> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:36:39.2670550+05:30"
+2023-01-30 19:36:39 [INFO]<8> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:36:42 [INFO]<11> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:36:42.4206264+05:30"
+2023-01-30 19:36:42 [INFO]<11> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:36:45 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:36:45.5765312+05:30"
+2023-01-30 19:36:45 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:36:48 [INFO]<11> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:36:48.7129693+05:30"
+2023-01-30 19:36:48 [INFO]<11> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:36:51 [INFO]<11> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:36:51.8516557+05:30"
+2023-01-30 19:36:51 [INFO]<11> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:36:54 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:36:54.9862382+05:30"
+2023-01-30 19:36:55 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:36:58 [INFO]<11> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:36:58.1769285+05:30"
+2023-01-30 19:36:58 [INFO]<11> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:01 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:01.3154777+05:30"
+2023-01-30 19:37:01 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:04 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:04.4461922+05:30"
+2023-01-30 19:37:04 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:07 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:07.5943598+05:30"
+2023-01-30 19:37:07 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:10 [INFO]<8> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:10.7339952+05:30"
+2023-01-30 19:37:10 [INFO]<8> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:13 [INFO]<11> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:13.8654635+05:30"
+2023-01-30 19:37:14 [INFO]<11> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:17 [INFO]<4> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:17.0211977+05:30"
+2023-01-30 19:37:17 [INFO]<4> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:20 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:20.1707848+05:30"
+2023-01-30 19:37:20 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:23 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:23.3065941+05:30"
+2023-01-30 19:37:23 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:26 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:26.4553418+05:30"
+2023-01-30 19:37:26 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:29 [INFO]<8> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:29.5883535+05:30"
+2023-01-30 19:37:29 [INFO]<8> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:32 [INFO]<4> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:32.7664472+05:30"
+2023-01-30 19:37:32 [INFO]<4> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:35 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:35.9695899+05:30"
+2023-01-30 19:37:36 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:39 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:39.1347756+05:30"
+2023-01-30 19:37:39 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:42 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:42.2677769+05:30"
+2023-01-30 19:37:42 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:45 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:45.4046302+05:30"
+2023-01-30 19:37:45 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:48 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:48.5398786+05:30"
+2023-01-30 19:37:48 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:51 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:51.6745917+05:30"
+2023-01-30 19:37:51 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:54 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:54.8092533+05:30"
+2023-01-30 19:37:54 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:37:57 [INFO]<11> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:37:57.9581804+05:30"
+2023-01-30 19:37:58 [INFO]<11> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:01 [INFO]<8> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:01.1002425+05:30"
+2023-01-30 19:38:01 [INFO]<8> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:04 [INFO]<4> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:04.2408645+05:30"
+2023-01-30 19:38:04 [INFO]<4> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:07 [INFO]<11> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:07.3881215+05:30"
+2023-01-30 19:38:07 [INFO]<11> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:10 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:10.5348312+05:30"
+2023-01-30 19:38:10 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:13 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:13.6717976+05:30"
+2023-01-30 19:38:13 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:16 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:16.8450857+05:30"
+2023-01-30 19:38:16 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:19 [INFO]<11> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:19.9928425+05:30"
+2023-01-30 19:38:20 [INFO]<11> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:23 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:23.1383617+05:30"
+2023-01-30 19:38:23 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:26 [INFO]<11> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:26.2801641+05:30"
+2023-01-30 19:38:26 [INFO]<11> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:29 [INFO]<8> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:29.4220753+05:30"
+2023-01-30 19:38:29 [INFO]<8> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:32 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:32.5687972+05:30"
+2023-01-30 19:38:32 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:35 [INFO]<11> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:35.7099618+05:30"
+2023-01-30 19:38:35 [INFO]<11> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:38 [INFO]<11> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:38.8712719+05:30"
+2023-01-30 19:38:39 [INFO]<11> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:42 [INFO]<8> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:42.0302040+05:30"
+2023-01-30 19:38:42 [INFO]<8> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:45 [INFO]<11> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:45.2156760+05:30"
+2023-01-30 19:38:45 [INFO]<11> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:48 [INFO]<11> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:48.3527709+05:30"
+2023-01-30 19:38:48 [INFO]<11> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:51 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:51.4855962+05:30"
+2023-01-30 19:38:51 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:54 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:54.6294794+05:30"
+2023-01-30 19:38:54 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:38:57 [INFO]<8> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:38:57.7645081+05:30"
+2023-01-30 19:38:57 [INFO]<8> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:39:00 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:39:00.9121417+05:30"
+2023-01-30 19:39:01 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:39:04 [INFO]<11> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:39:04.0539213+05:30"
+2023-01-30 19:39:04 [INFO]<11> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:39:07 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:39:07.1914579+05:30"
+2023-01-30 19:39:07 [INFO]<13> [WorkerServiceApp1.Worker] Error logged  running at: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+2023-01-30 19:39:10 [INFO]<13> [WorkerServiceApp1.Worker] Worker running at: "2023-01-30T19:39:10.3353432+05:30"

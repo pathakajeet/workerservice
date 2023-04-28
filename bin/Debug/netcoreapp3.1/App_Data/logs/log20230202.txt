@@ -1,0 +1,4 @@
+2023-02-02 13:03:51 [INFO]<1> [] ====================================================================
+2023-02-02 13:03:51 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2023-02-02 13:03:51 [INFO]<1> [] Application Directory: D:\Nestle\Nestle_CPMT_Integration\NestlePO10\WindowServiceFinal\bin\Debug\netcoreapp3.1\
+2023-02-02 13:03:52 [INFO]<1> [WorkerServiceApp1.Worker] Worker running at: "2023-02-02T13:03:52.7634528+05:30"
